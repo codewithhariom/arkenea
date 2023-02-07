@@ -23,7 +23,9 @@ User details will contain following fields.
 - Use MongoDB for save the data
 
 
-For Run this Application 
-First start server which is available in main branch, by using first run "npm i" then "npm start" command
-Then run angular which is available in master branch, so first of all run "npm i" then run "ng serve" command
+For Run,
+First start server which is available in main branch, run "npm i" then "npm start" command
+
+
+For angular which is available in master branch, run "npm i" then "ng serve" command
 
