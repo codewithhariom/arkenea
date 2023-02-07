@@ -21,3 +21,9 @@ User details will contain following fields.
 - Profile Image (Need to upload in folder &amp; save file name in database)
 3. Database
 - Use MongoDB for save the data
+
+
+For Run this Application 
+First start server which is available in main branch, by using first run "npm i" then "npm start" command
+Then run angular which is available in master branch, so first of all run "npm i" then run "ng serve" command
+
